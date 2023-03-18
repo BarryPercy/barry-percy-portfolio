@@ -1,0 +1,19 @@
+.navbar-words{
+    color:white !important;
+}
+
+.navbar-words:hover{
+    color:grey !important;
+}
+.navbar-button{
+    color:#64ffda !important;
+    border-color: white;
+    user-select: none !important;
+    background-color: unset !important;
+}
+
+.navbar-button:hover{
+    background-color: #173040 !important;
+    color: #64ffda !important;
+    border-color:#64ffda !important;
+}
